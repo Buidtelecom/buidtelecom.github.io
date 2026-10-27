@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rvideos.applicaton",
+      "sha256_cert_fingerprints":
+["27:F7:92:31:E9:4D:35:86:7D:20:4F:A0:DE:73:E3:D5:27:A7:9D:92:2F:4E:F8:97:25:2A:4C:C3:A5:5E:75:66"]
+    }
+  }
+]
